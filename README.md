@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ferramentas que uso: 
+#### Ferramentas que uso: 
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
