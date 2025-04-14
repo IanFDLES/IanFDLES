@@ -1,4 +1,4 @@
-## Olá 👋
+## Hi, there 👋
 
 <!--
 **IanFDLES/IanFDLES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Ferramentas que uso: 
+### Tools: 
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
